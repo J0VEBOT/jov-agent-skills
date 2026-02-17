@@ -117,7 +117,7 @@ $JOV is the J0VEBOT ecosystem token on Solana. It powers agent skill fees, gover
 
 ## Links
 
-- 🌐 [j0vebot.com](https://j0vebot.com)
+- 🌐 [j0ve.bot](https://j0ve.bot)
 - 🐦 [@J0VEBOT on X](https://x.com/J0VEBOT)
 - 💻 [GitHub](https://github.com/J0VEBOT)
 - 🪐 [Jupiter](https://jup.ag)
