@@ -1,0 +1,7 @@
+.cursor/*
+CLAUDE.md
+AGENTS.md
+.claude/*
+.agents/*
+node_modules/
+.DS_Store
